@@ -1,9 +1,11 @@
 /***************************************************/
-/* CS161SP20 Assignment 6 - 5/17/2020              */
-/* Slater Smith - This is SOLELY my work           */
+/* Slater Smith                                    */
+/*                                                 */
 /* This is a simple program that will calculate    */
 /* membership cost and discount for a fictional    */
 /* fitness club.                                   */
+/*                                                 */
+/* Written for practice using Void functions       */
 /* Sources: None. This is solely my work.          */
 /***************************************************/
 
